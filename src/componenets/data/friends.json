@@ -1,0 +1,32 @@
+[
+	{
+		"avatar": "https://randomuser.me/api/portraits/men/81.jpg",
+		"name": "Mango",
+		"isOnline": true,
+		"id": 1812
+	},
+	{
+		"avatar": "https://randomuser.me/api/portraits/men/26.jpg",
+		"name": "Kiwi",
+		"isOnline": false,
+		"id": 1137
+	},
+	{
+		"avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+		"name": "Ajax",
+		"isOnline": true,
+		"id": 1213
+	},
+	{
+		"avatar": "https://randomuser.me/api/portraits/men/56.jpg",
+		"name": "Jay",
+		"isOnline": true,
+		"id": 1714
+	},
+	{
+		"avatar": "https://randomuser.me/api/portraits/women/88.jpg",
+		"name": "Poly",
+		"isOnline": false,
+		"id": 1284
+	}
+]
